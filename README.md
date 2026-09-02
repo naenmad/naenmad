@@ -1,253 +1,207 @@
 <div align="center">
-  
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ahmad%20Zulkarnaen&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Software+Engineer+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Mobile+%26+Web+Specialist+%F0%9F%93%B1" alt="Typing SVG" /></a>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,31&height=220&section=header&text=Ahmad%20Zulkarnaen&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Architect&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-<!-- Profile Views & Social Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naenmad&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/naenmad?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/naenmad?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
+  <!-- Animated Typing Text -->
+  <p align="center">
+    <a href="https://github.com/naenmad">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=45&lines=Crafting+Scalable+Web+%26+Mobile+Solutions+%E2%9C%A8;Full-Stack+Architect+%7C+Flutter+%2B+React+%2B+Laravel+%F0%9F%9A%80;Turning+complex+problems+into+elegant+code+%F0%9F%92%BB;Building+the+future+at+Antipaya+Software+House+%F0%9F%8F%A2" alt="Typing SVG" />
+    </a>
+  </p>
 
-<!-- Social Media Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/naen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@madnaen" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://medium.com/@madnaen" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-  <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</p>
+  <!-- Quick Social & Status Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/naen" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://youtube.com/@madnaen" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+    <a href="https://medium.com/@madnaen" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
+      <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    </a>
+    <a href="https://komarev.com/ghpvc/?username=naenmad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=naenmad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 💫 About Me
 
-```typescript
-const ahmad = {
-  name: "Ahmad Zulkarnaen",
-  location: "Bogor, Indonesia 🇮🇩",
-  company: "Antipaya Software House",
-  role: "Software Engineer",
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      
+  👋 **Halo! I'm Ahmad Zulkarnaen**, a Software Engineer based in **Bogor, Indonesia 🇮🇩**.
+
+  - 🏢 **Current Role**: Software Engineer at **Antipaya Software House**
+  - 🔭 **Primary Focus**: High-performance Full-Stack Web & Mobile Application Architecture
+  - 💡 **Core Strengths**: Clean Architecture, Microservices, Scalable APIs, Modular Frontend/Mobile
+  - 🧠 **Currently Exploring**: Advanced System Design, Cloud & DevOps Automation, AI/LLM Integration
+  - 💬 **Ask me about**: Flutter, React, Next.js, Laravel, TypeScript, System Architecture
+  - ⚡ **Philosophy**: *"Make it work, make it right, make it fast — and make it maintainable."*
+
+  <br/>
   
-  workingOn: {
-    focus: ["Web Development", "Mobile Development", "Cloud Architecture"],
-    technologies: ["React", "Flutter", "Laravel", "TypeScript"]
+  <p>
+    <a href="https://linkedin.com/in/naen">
+      <img src="https://img.shields.io/badge/Open_For_Opportunities-00E676?style=flat-square&logo=curseforge&logoColor=black" alt="Open for Opportunities" />
+    </a>
+    <img src="https://img.shields.io/badge/Location-Bogor%2C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-blue?style=flat-square" alt="Location" />
+  </p>
+    </td>
+    <td width="45%" valign="top">
+
+```json
+{
+  "developer": "Ahmad Zulkarnaen",
+  "alias": "naenmad",
+  "passion": "Building scalable software",
+  "stack": {
+    "mobile": ["Flutter", "Kotlin", "React Native"],
+    "frontend": ["Next.js", "React", "TypeScript", "TailwindCSS"],
+    "backend": ["Laravel", "Node.js", "Express", "FastAPI"],
+    "database": ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
   },
-  
-  architecture: ["Microservices", "Modular Design", "RESTful API", "Event-Driven"],
-  
-  learning: {
-    current: ["System Design", "DevOps", "AI/ML Integration"],
-    next: ["Kubernetes", "Rust", "Web3"]
-  },
-  
-  communities: {
-    contributing: ["Open Source Projects", "Tech Blogging", "Code Reviews"],
-    mentoring: ["Junior Developers", "Tech Workshops"]
-  },
-  
-  funFact: "I turn coffee ☕ into code 💻, and bugs 🐛 into features ✨"
-};
+  "status": "Engineering next-gen digital experiences"
+}
 ```
 
+   </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Tech Stack & Toolkit
+
 <div align="center">
 
-### 🎯 **Current Focus**
-Building scalable, modular solutions for modern digital challenges at **Antipaya**
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,python,php,java,cpp&perline=8" alt="Languages" /></a> |
+| **Frontend & UI** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&perline=8" alt="Frontend" /></a> |
+| **Mobile Dev** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&perline=8" alt="Mobile" /></a> |
+| **Backend & API** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi,php,py&perline=8" alt="Backend" /></a> |
+| **Database & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis&perline=8" alt="Databases" /></a> |
+| **DevOps & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,figma,linux&perline=8" alt="DevOps and Tools" /></a> |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+### 📊 GitHub Performance & Analytics
 
 <div align="center">
-
-### 💻 Programming Languages
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### ⚙️ Backend Development
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=naenmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=naenmad&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=F59E0B&currStreakLabel=60A5FA" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naenmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=60A5FA&text_color=94A3B8" alt="Top Languages" />
+      </td>
+      <td width="50%" align="center">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naenmad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF822" alt="Activity Graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### 🐍 Contribution Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=naenmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=naenmad&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naenmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=naenmad&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=naenmad&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<div align="center">
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🚀 **Antipaya Core** | Modular software architecture framework | Laravel, React, TypeScript | Active |
-| 📱 **Mobile Suite** | Cross-platform mobile solutions | Flutter, Dart, Firebase | Active |
-| 🌐 **Web Platform** | Modern web application ecosystem | Next.js, TailwindCSS, PostgreSQL | Active |
-| 🔧 **DevOps Tools** | Automation and deployment utilities | Docker, GitHub Actions | Active |
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/naenmad/naenmad/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/naenmad/naenmad/output/snake.svg" />
+    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/naenmad/naenmad/output/snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
 
-## 📝 Latest Blog Posts
+### 💼 Featured Works & Services
 
 <div align="center">
-  <a href="https://medium.com/@madnaen">
-    <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=madnaen&theme=dark" alt="Medium Articles" />
+
+| Project / Service | Focus Area | Technology Stack | Status |
+| :--- | :--- | :--- | :---: |
+| 🚀 **Enterprise Web Solutions** | Scalable Multi-Tenant Platforms & SaaS | `Next.js` `React` `TailwindCSS` `Laravel` | 🟢 Active |
+| 📱 **Cross-Platform Mobile Apps** | Fluid & Offline-First Mobile Experiences | `Flutter` `Dart` `Firebase` `REST API` | 🟢 Active |
+| ⚙️ **API & Microservices Architecture** | High-Throughput Services & Secure Gateways | `Node.js` `Express` `PostgreSQL` `Redis` | 🟢 Active |
+| ☁️ **DevOps & Cloud Automation** | Containerization, CI/CD Pipelines | `Docker` `GitHub Actions` `Linux` | 🟢 Active |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <blockquote>
+    🏢 <b>Antipaya Software House</b> — Delivering bespoke, high-impact digital products for forward-thinking businesses.
+  </blockquote>
+</div>
+
+---
+
+### 🎧 Vibing & Inspiration
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <p><b>🎵 Recently Played on Spotify</b></p>
+        <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
+          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mcp6bpg7ghj542srfj4n7jfw5a&count=4&unique=true" alt="Spotify Recently Played" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <p><b>💬 Daily Dev Quote</b></p>
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&text_color=94A3B8&title_color=60A5FA" alt="Dev Quote" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <p>Feel free to reach out for project inquiries, tech discussions, or collaboration opportunities!</p>
+
+  <a href="https://linkedin.com/in/naen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mcp6bpg7ghj542srfj4n7jfw5a&count=5&unique=true" alt="Spotify Recently Played" />
+  <a href="https://youtube.com/@madnaen" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/naenmad/naenmad/output/snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-## 💼 Professional Services
-
-<div align="center">
-
-### 🏢 **Antipaya Software House**
-*Building Tomorrow's Digital Solutions Today*
-
-| Service | Description |
-|---------|-------------|
-| 🎯 **Custom Development** | Tailored software solutions for your business needs |
-| 📱 **Mobile Applications** | Native & cross-platform mobile app development |
-| 🌐 **Web Development** | Modern, scalable, and responsive web applications |
-| ☁️ **Cloud Solutions** | Cloud architecture and migration services |
-| 🔧 **Technical Consulting** | Expert guidance on technology stack and architecture |
-| 🎓 **Training & Workshops** | Upskill your team with modern development practices |
-
-**💡 Let's build something amazing together!**
-
-[![Contact Me](https://img.shields.io/badge/Contact_Me-Get_In_Touch-blue?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-<div align="center">
-
-### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 🤝 Let's Connect and Collaborate
-
-**Open for opportunities, collaborations, and interesting tech discussions!**
-
-<p align="center">
-  <a href="https://linkedin.com/in/naen">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://medium.com/@madnaen" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
-  <a href="https://youtube.com/@madnaen">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
 
----
+  <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,31&height=100&section=footer" width="100%" alt="Footer Wave" />
 
-**⭐️ From [naenmad](https://github.com/naenmad) with 💙**
+  <p align="center">
+    <i>Crafted with 💙 by <a href="https://github.com/naenmad"><b>naenmad</b></a></i>
+  </p>
 
 </div>
