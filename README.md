@@ -1,76 +1,106 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,31&height=220&section=header&text=Ahmad%20Zulkarnaen&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Architect&descFontSize=20&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+<!-- ========================================================================= -->
+<!-- 🚀 DYNAMIC HERO BANNER -->
+<!-- ========================================================================= -->
 
-  <!-- Animated Typing Text -->
-  <p align="center">
-    <a href="https://github.com/naenmad">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&multiline=false&repeat=true&width=620&height=45&lines=Crafting+Scalable+Web+%26+Mobile+Solutions+%E2%9C%A8;Full-Stack+Architect+%7C+Flutter+%2B+React+%2B+Laravel+%F0%9F%9A%80;Turning+complex+problems+into+elegant+code+%F0%9F%92%BB;Building+the+future+at+Antipaya+Software+House+%F0%9F%8F%A2" alt="Typing SVG" />
-    </a>
-  </p>
+```
+   _  __ ___    ______ _   __ __  ___ ___     ____ 
+  / |/ //   |  / ____// | / //  |/  //   |   / __ \
+ /    // /| | / __/  /  |/ // /|_/ // /| |  / / / /
+/_/|_//_/ |_|/_____//_/|__//_/  /_//_/ |_| /_/ /_/ 
+```
 
-  <!-- Quick Social & Status Badges -->
-  <p align="center">
-    <a href="https://linkedin.com/in/naen" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://youtube.com/@madnaen" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    <a href="https://medium.com/@madnaen" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-    <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
-      <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-    </a>
-    <a href="https://komarev.com/ghpvc/?username=naenmad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=naenmad&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    </a>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=AHMAD%20ZULKARNAEN&fontSize=38&fontColor=38bdf8&fontAlignY=42&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20%26%20MOBILE%20ARCHITECT%20%E2%9A%A1&descFontSize=14&descAlignY=64&descAlign=50&stroke=38bdf8&strokeWidth=1" width="100%" alt="Header" />
+
+<br/>
+
+<!-- Dynamic Terminal Typing -->
+<a href="https://github.com/naenmad">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=40&lines=Building+scalable+systems+%26+modern+digital+experiences;Full-Stack+%26+Mobile+Specialist+%40+Antipaya+Software+House;Flutter+%E2%80%A2+React+%2F+Next.js+%E2%80%A2+Laravel+%E2%80%A2+TypeScript;Turning+complex+architecture+into+clean%2C+maintainable+code" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Quick Actions & Connect Hub -->
+<p align="center">
+  <a href="https://linkedin.com/in/naen" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@madnaen" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://medium.com/@madnaen" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+  <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+  <a href="https://github.com/naenmad?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/naenmad?style=for-the-badge&logo=github&color=21262d&labelColor=0d1117" alt="Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=naenmad&color=38bdf8&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+</p>
 
 </div>
 
 ---
 
-### 💫 About Me
+<!-- ========================================================================= -->
+<!-- 💻 SYSTEM OVERVIEW / NEOFETCH TERMINAL UI -->
+<!-- ========================================================================= -->
+
+### 🖥️ `system_info.sh`
+
+```bash
+naenmad@workspace-id:~$ neofetch --engineer "Ahmad Zulkarnaen"
+```
+
+```yaml
+  ███╗   ██╗ █████╗ ███████╗███╗   ██╗  OS        : Arch Linux x86_64 / macOS
+  ████╗  ██║██╔══██╗██╔════╝████╗  ██║  Host      : Antipaya Engineering HQ (Bogor, ID 🇮🇩)
+  ██╔██╗ ██║███████║█████╗  ██╔██╗ ██║  Kernel    : Software Engineer v2.0
+  ██║╚██╗██║██╔══██║██╔══╝  ██║╚██╗██║  Role      : Full-Stack & Mobile Specialist
+  ██║ ╚████║██║  ██║███████╗██║ ╚████║  Focus     : Web, Mobile, Cloud Architecture, Scalability
+  ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝  Stack     : React, Flutter, Laravel, TypeScript
+                                        Uptime    : Coffee-driven ☕ → Continuous Delivery 🚀
+```
+
+---
+
+<!-- ========================================================================= -->
+<!-- ⚡ BENTO GRID: ABOUT & HIGHLIGHTS -->
+<!-- ========================================================================= -->
+
+### 🧩 Engineering Profile & Focus
 
 <table>
   <tr>
     <td width="55%" valign="top">
-      
-  👋 **Halo! I'm Ahmad Zulkarnaen**, a Software Engineer based in **Bogor, Indonesia 🇮🇩**.
-
-  - 🏢 **Current Role**: Software Engineer at **Antipaya Software House**
-  - 🔭 **Primary Focus**: High-performance Full-Stack Web & Mobile Application Architecture
-  - 💡 **Core Strengths**: Clean Architecture, Microservices, Scalable APIs, Modular Frontend/Mobile
-  - 🧠 **Currently Exploring**: Advanced System Design, Cloud & DevOps Automation, AI/LLM Integration
-  - 💬 **Ask me about**: Flutter, React, Next.js, Laravel, TypeScript, System Architecture
-  - ⚡ **Philosophy**: *"Make it work, make it right, make it fast — and make it maintainable."*
-
-  <br/>
-  
-  <p>
-    <a href="https://linkedin.com/in/naen">
-      <img src="https://img.shields.io/badge/Open_For_Opportunities-00E676?style=flat-square&logo=curseforge&logoColor=black" alt="Open for Opportunities" />
-    </a>
-    <img src="https://img.shields.io/badge/Location-Bogor%2C%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9-blue?style=flat-square" alt="Location" />
-  </p>
+      <h4>🎯 Core Architecture & Workflow</h4>
+      <ul>
+        <li>🏗️ <b>Modular & Scalable Design</b>: Crafting high-concurrency backend services and fluid mobile apps.</li>
+        <li>⚡ <b>Clean Code Principles</b>: Applying SOLID, Clean Architecture, and Domain-Driven design.</li>
+        <li>🌐 <b>Full-Stack Mastery</b>: Bridging dynamic frontend interfaces with rock-solid REST & Event-Driven APIs.</li>
+        <li>🏢 <b>Enterprise Craftsmanship</b>: Driving software engineering excellence at <b>Antipaya Software House</b>.</li>
+      </ul>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/Focus-System_Design_%26_Scalability-0284c7?style=flat-square" alt="Focus" />
+        <img src="https://img.shields.io/badge/Location-Bogor%2C_Indonesia-16a34a?style=flat-square" alt="Location" />
+        <img src="https://img.shields.io/badge/Status-Building_%26_Mentoring-7c3aed?style=flat-square" alt="Status" />
+      </p>
     </td>
     <td width="45%" valign="top">
+      <h4>⚡ Live Telemetry</h4>
 
-```json
-{
-  "developer": "Ahmad Zulkarnaen",
-  "alias": "naenmad",
-  "passion": "Building scalable software",
-  "stack": {
-    "mobile": ["Flutter", "Kotlin", "React Native"],
-    "frontend": ["Next.js", "React", "TypeScript", "TailwindCSS"],
-    "backend": ["Laravel", "Node.js", "Express", "FastAPI"],
-    "database": ["PostgreSQL", "MySQL", "MongoDB", "Redis"]
-  },
-  "status": "Engineering next-gen digital experiences"
+```typescript
+interface SoftwareEngineer {
+  identity: "Ahmad Zulkarnaen (@naenmad)";
+  venture: "Antipaya Software House";
+  corePillars: ["Web", "Mobile", "Cloud", "Clean Code"];
+  philosophy: "Turn complex engineering into seamless UX";
+  status: "Available for ambitious collaborations ✨";
 }
 ```
 
@@ -80,49 +110,89 @@
 
 ---
 
-### 🚀 Tech Stack & Toolkit
+<!-- ========================================================================= -->
+<!-- 🛠️ ARSENAL & TECH STACK RADAR -->
+<!-- ========================================================================= -->
+
+### 🛠️ Technical Arsenal & Ecosystem
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,python,php,java,cpp&perline=8" alt="Languages" /></a> |
-| **Frontend & UI** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&perline=8" alt="Frontend" /></a> |
-| **Mobile Dev** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&perline=8" alt="Mobile" /></a> |
-| **Backend & API** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi,php,py&perline=8" alt="Backend" /></a> |
-| **Database & Cloud** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,redis&perline=8" alt="Databases" /></a> |
-| **DevOps & Tools** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman,figma,linux&perline=8" alt="DevOps and Tools" /></a> |
+<p align="center">
+  <b>Languages & Core</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,kotlin,dart,python,php,java,cpp,c&theme=dark" alt="Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Frontend & UI Architecture</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css&theme=dark" alt="Frontend" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Mobile Engineering</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,react&theme=dark" alt="Mobile" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Backend, API & Cloud Services</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi,postgres,mysql,mongodb,redis,firebase&theme=dark" alt="Backend and Database" />
+  </a>
+</p>
+
+<p align="center">
+  <b>DevOps, Tooling & Workflows</b><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,idea,postman,linux,figma&theme=dark" alt="Tools" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 📊 GitHub Performance & Analytics
+<!-- ========================================================================= -->
+<!-- 📊 GITHUB METRICS & REAL-TIME ANALYTICS -->
+<!-- ========================================================================= -->
+
+### 📊 Performance & Repository Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=naenmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=60A5FA&icon_color=38BDF8&text_color=94A3B8" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=naenmad&theme=tokyonight&hide_border=true&background=0D1117&ring=60A5FA&fire=F59E0B&currStreakLabel=60A5FA" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naenmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=60A5FA&text_color=94A3B8" alt="Top Languages" />
-      </td>
-      <td width="50%" align="center">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naenmad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=60A5FA&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF822" alt="Activity Graph" />
-      </td>
-    </tr>
-  </table>
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=naenmad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_radius=12" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=naenmad&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&border_radius=12" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naenmad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_radius=12" alt="Top Languages" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naenmad&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF822" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+<!-- ========================================================================= -->
+<!-- 🐍 CONTRIBUTION SNAKE ANIMATION -->
+<!-- ========================================================================= -->
+
+### 🌌 Activity Constellation
 
 <div align="center">
   <picture>
@@ -134,74 +204,102 @@
 
 ---
 
+<!-- ========================================================================= -->
+<!-- 💼 FEATURED WORKS & SOFTWARE HOUSE PORTFOLIO (INTERACTIVE CARDS) -->
+<!-- ========================================================================= -->
+
 ### 💼 Featured Works & Services
 
 <div align="center">
 
-| Project / Service | Focus Area | Technology Stack | Status |
+| Initiative / Platform | Architecture Focus | Tech Stack | Status |
 | :--- | :--- | :--- | :---: |
-| 🚀 **Enterprise Web Solutions** | Scalable Multi-Tenant Platforms & SaaS | `Next.js` `React` `TailwindCSS` `Laravel` | 🟢 Active |
-| 📱 **Cross-Platform Mobile Apps** | Fluid & Offline-First Mobile Experiences | `Flutter` `Dart` `Firebase` `REST API` | 🟢 Active |
-| ⚙️ **API & Microservices Architecture** | High-Throughput Services & Secure Gateways | `Node.js` `Express` `PostgreSQL` `Redis` | 🟢 Active |
-| ☁️ **DevOps & Cloud Automation** | Containerization, CI/CD Pipelines | `Docker` `GitHub Actions` `Linux` | 🟢 Active |
+| 🚀 **Antipaya Core Architecture** | Modular Enterprise Foundation & Microservices | `Laravel` `React` `TypeScript` | 🟢 Active |
+| 📱 **Cross-Platform Mobile Suite** | Offline-First, High Performance Mobile UX | `Flutter` `Dart` `Firebase` | 🟢 Active |
+| 🌐 **Modern Web Ecosystem** | High-Traffic Scalable SaaS Platforms | `Next.js` `TailwindCSS` `PostgreSQL` | 🟢 Active |
+| 🔧 **DevOps & Infrastructure Automation** | CI/CD, Containerization & Server Workflows | `Docker` `GitHub Actions` `Linux` | 🟢 Active |
 
 </div>
 
 <br/>
 
+<details>
+  <summary><b>🏢 Explore Services at Antipaya Software House (Click to expand)</b></summary>
+  <br/>
+
+| Service | Scope & Deliverables |
+| :--- | :--- |
+| 🎯 **Custom Development** | Bespoke full-stack software tailored to demanding business logic |
+| 📱 **Mobile Applications** | Production-ready native (Android/Kotlin) & cross-platform (Flutter/React Native) apps |
+| 🌐 **Web Applications** | Responsive, SEO-optimized, and resilient modern web systems |
+| ☁️ **Cloud Solutions** | Microservices, RESTful & Event-Driven APIs, and database architecture |
+| 🔧 **Technical Consulting** | Tech-stack evaluation, code audit, and system design optimization |
+| 🎓 **Training & Workshops** | Hands-on engineering workshops and modern agile coaching |
+
+</details>
+
+---
+
+<!-- ========================================================================= -->
+<!-- 🎧 SPOTIFY PULSE & DEV INSPIRATION -->
+<!-- ========================================================================= -->
+
+### 🎧 Coding Soundwaves & Inspiration
+
 <div align="center">
-  <blockquote>
-    🏢 <b>Antipaya Software House</b> — Delivering bespoke, high-impact digital products for forward-thinking businesses.
-  </blockquote>
+
+<table border="0">
+  <tr>
+    <td width="50%" align="center">
+      <p><b>🎵 Listening Pulse</b></p>
+      <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mcp6bpg7ghj542srfj4n7jfw5a&count=4&unique=true" alt="Spotify Recently Played" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <p><b>💡 Thought Stream</b></p>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&text_color=94A3B8&title_color=38BDF8" alt="Dev Quote" />
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
 
-### 🎧 Vibing & Inspiration
+<!-- ========================================================================= -->
+<!-- 🤝 COLLABORATION & FOOTER -->
+<!-- ========================================================================= -->
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <p><b>🎵 Recently Played on Spotify</b></p>
-        <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
-          <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mcp6bpg7ghj542srfj4n7jfw5a&count=4&unique=true" alt="Spotify Recently Played" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <p><b>💬 Daily Dev Quote</b></p>
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&text_color=94A3B8&title_color=60A5FA" alt="Dev Quote" />
-      </td>
-    </tr>
-  </table>
-</div>
 
----
+<h3>🤝 Let's Build Something Impactful Together</h3>
 
-### 🤝 Let's Connect & Collaborate
+<p>
+  Whether you have an upcoming project, a challenging architecture to discuss, or an open-source initiative:
+</p>
 
-<div align="center">
-  <p>Feel free to reach out for project inquiries, tech discussions, or collaboration opportunities!</p>
-
+<p>
   <a href="https://linkedin.com/in/naen" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://youtube.com/@madnaen" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://medium.com/@madnaen" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
+</p>
 
-  <br/><br/>
+<br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,14,24,31&height=100&section=footer" width="100%" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:0d1117&height=90&section=footer&stroke=38bdf8&strokeWidth=1" width="100%" alt="Footer" />
 
-  <p align="center">
-    <i>Crafted with 💙 by <a href="https://github.com/naenmad"><b>naenmad</b></a></i>
-  </p>
+<p align="center">
+  <i>Engineered with 💙 & precision by <a href="https://github.com/naenmad"><b>naenmad</b></a></i>
+</p>
 
 </div>
