@@ -297,6 +297,208 @@ export const ArchitectProfile: Engineer = {
 ---
 
 <!-- ========================================================================= -->
+<!-- 🎮 INTERACTIVE TERMINAL MINI-GAME: THE ANTIPAYA QUEST -->
+<!-- ========================================================================= -->
+
+### 🎮 Interactive Terminal Quest: `antipaya_quest.sh`
+
+<p align="center"><code>guest@antipaya-station:~$ ./antipaya_quest.sh --interactive</code></p>
+
+<div align="center">
+  <p><b>🕹️ An interactive text adventure running directly inside this README! Click the options below to play:</b></p>
+</div>
+
+<details>
+<summary><b>▶️ [CLICK TO START MISSION] <code>guest@antipaya:~$ ./antipaya_quest.sh</code></b></summary>
+
+<br/>
+
+```yaml
+# ╭────────────────────────────────────────────────────────────────────────────╮
+# │ 🚨 ANTIPAYA SOFTWARE HOUSE INCIDENT ALERT - 03:14 AM              ● ● ●   │
+# ╰────────────────────────────────────────────────────────────────────────────╯
+
+  Status      : 🔴 CRITICAL - Production Cluster Degradation
+  Node        : prod-cluster-jakarta-01
+  CPU Load    : 99.8% (Thread starvation detected)
+  Incident    : Infinite recursion detected in payment dispatch loop
+  On-Call     : Ahmad Zulkarnaen (@naenmad) - Status: In Deep Focus Mode 🎧
+  Coffee Tank : ⚠️ 4% remaining (Emergency Threshold Breached)
+
+  Mission     : Triage the outage, restore cluster health, and secure the coffee!
+```
+
+<p><b>Select your tactical response, Engineer:</b></p>
+
+---
+
+<details>
+<summary><b>👉 Choice A: 🔍 <code>tail -n 50 /var/log/antipaya/prod-api.log</code> (Inspect Server Logs)</b></summary>
+
+<br/>
+
+```bash
+[03:14:02] [FATAL] [Worker-12] RangeError: Maximum call stack size exceeded
+[03:14:03] [FATAL] [Worker-12] at TransactionRouter.dispatch (router.ts:88:21)
+[03:14:04] [WARN]  [HealthCheck] Database connection pool exhausted: 500/500 active
+[03:14:05] [ALERT] [PagerDuty] 4,200 transactions queued in the last 60 seconds!
+```
+
+> **Diagnosis**: A rogue recursive handler was merged to `main` without an exit condition! What will you do?
+
+<details>
+<summary><b>⚡ Option A.1: 🤠 YOLO Hotfix! SSH directly into production container and edit code with Nano</b></summary>
+
+<br/>
+
+```bash
+guest@antipaya:~$ docker exec -it prod-api-01 nano src/router.ts
+# Oops... You fat-fingered Ctrl+Z, panic-typed, and accidentally ran `kill -9 1`!
+```
+
+```yaml
+# 💥 CATASTROPHIC OUTAGE TRIGGERED!
+  Result   : PID 1 killed. Container crashed. The entire staging and prod gateway is offline.
+  Outcome  : Ahmad glances at the telemetry dashboard, calmly smiles, and hits `docker compose rollback`.
+  Lesson   : "Never write hotfixes directly on prod at 3 AM without a PR."
+  Badges   : 🐒 [ACHIEVEMENT UNLOCKED: Midnight Cowboy Coder]
+```
+<p><i>🔄 Collapse this option and try another path to redeem your engineering honor!</i></p>
+
+</details>
+
+<details>
+<summary><b>🛡️ Option A.2: 🏗️ Follow Clean Architecture: Branch out, write a unit test, and open PR</b></summary>
+
+<br/>
+
+```bash
+guest@antipaya:~$ git checkout -b hotfix/recursion-guard
+guest@antipaya:~$ npm test -- --watchAll=false
+```
+
+```yaml
+# 🧪 TEST SUITE TELEMETRY:
+  PASS tests/unit/router.spec.ts (1.42s)
+  PASS tests/integration/cluster.spec.ts (2.88s)
+  ✓ handles recursive event loop without stack overflow (12ms)
+
+  CI/CD      : GitHub Actions build passed in 42s!
+  Status     : 🟢 CLUSTER RESTORED - 0% Error Rate, Latency 12ms
+  Badges     : 🏆 [ACHIEVEMENT UNLOCKED: Principal Architect & Outage Savior]
+```
+<p><b>🎉 Ahmad Zulkarnaen approves your Pull Request with a 🚀 stamp: <i>"Clean Architecture saves production once again."</i></b></p>
+
+</details>
+
+</details>
+
+---
+
+<details>
+<summary><b>👉 Choice B: ☕ <code>curl -X POST https://iot.antipaya.internal/espresso/brew</code> (Coffee First!)</b></summary>
+
+<br/>
+
+```bash
+guest@antipaya:~$ curl -X POST https://iot.antipaya.internal/espresso \
+  -H "Authorization: Bearer AntipayaHQSecretKey" \
+  -d '{"beans": "Aceh Gayo Single Origin", "shots": 3, "temp_c": 93}'
+```
+
+```yaml
+# ☕ IOT SMART ESPRESSO TELEMETRY:
+  Grinding    : Ceramic burr active (18.5g fine espresso grind)
+  Extraction  : 28 seconds @ 9 bars of pressure
+  Crema       : Thick golden-hazelnut velvet
+  Status      : ☕ Triple Shot Espresso Poured!
+
+  Buff Effect : Focus +300% • Bug-Spotting Vision +200% • Sleepiness -100%
+```
+
+> **Laser-focused and energized**, your terminal perception is operating at 5.0 GHz. How do you tackle the incident?
+
+<details>
+<summary><b>⚡ Option B.1: 🧠 Spot the bug in 2 seconds with Neovim regex mastery</b></summary>
+
+<br/>
+
+```bash
+guest@antipaya:~$ nvim -R src/services/TransactionRouter.ts
+# With caffeine-supercharged eyes, you immediately notice line 42:
+# - while (hasPendingTransactions) { retryDispatch(); }
+# + while (hasPendingTransactions && retries++ < MAX_RETRY_LIMIT) { retryDispatch(); }
+```
+
+```yaml
+# 🚀 LIGHTNING HOTFIX DEPLOYED!
+  Commit   : 7f3a9e1 "fix(router): add bounded retry guard against infinite dispatch"
+  Review   : Fast-forward merged in 15 seconds!
+  Status   : 🟢 100% HEALTHY - High-concurrency payment stream flowing smoothly
+  Badges   : ⚡ [ACHIEVEMENT UNLOCKED: 10x Caffeine-Driven Engineer]
+```
+<p><b>✨ Ahmad hands you an Antipaya Engineering Mug: <i>"Great software is built on clean code and legendary coffee."</i></b></p>
+
+</details>
+
+<details>
+<summary><b>🎧 Option B.2: 🎵 Check Ahmad's hidden coding playlist for bug-hunting tunes</b></summary>
+
+<br/>
+
+```bash
+guest@antipaya:~$ cat ~/.dotfiles/.secret_soundtrack
+```
+
+```yaml
+# 🎶 ANTIPAYA HQ SOUNDWAVE VAULT:
+  Track 01 : Synthwave Boy - "Subnet Midnight Drive"
+  Track 02 : Lofi Girl - "Beats to Relax / Fix Docker Containers to"
+  Track 03 : Hans Zimmer - "Time (When Deploying to Production)"
+
+  Easter Egg : "Spotify might be commented out in README, but the soundwaves never stop!" 🎧
+  Badges     : 🎵 [ACHIEVEMENT UNLOCKED: Certified Soundwave Hacker]
+```
+
+</details>
+
+</details>
+
+---
+
+<details>
+<summary><b>👉 Choice C: 🤖 <code>ai-agent --autopilot --solve-production</code> (Let AI handle it)</b></summary>
+
+<br/>
+
+```bash
+guest@antipaya:~$ ai-agent --prompt "Please fix the cluster immediately, thank you"
+```
+
+```yaml
+# 🤖 AI AGENT TELEMETRY:
+  Thinking : "Analyzing 4,200 source files in monorepo..."
+  Action   : Replaced entire payment service with a single 12,000-character regular expression.
+  Output   : "Server load reduced to 0.1%! Also, I refactored the office AC unit to run Kubernetes."
+  Status   : 🟡 The bug is gone, but now nobody understands how the app works.
+  Badges   : 🤖 [ACHIEVEMENT UNLOCKED: Cyberpunk Automation Sorcerer]
+```
+
+<p><i>Ahmad smiles: "Great prompt engineering, but tomorrow morning we write types for that regex!" 😂</i></p>
+
+</details>
+
+<br/>
+
+<div align="center">
+  <p><i>💡 <b>Want to explore all endings?</b> Collapse and re-open any choice above to try different paths!</i></p>
+</div>
+
+</details>
+
+---
+
+<!-- ========================================================================= -->
 <!-- 🤝 COLLABORATION & FOOTER -->
 <!-- ========================================================================= -->
 
