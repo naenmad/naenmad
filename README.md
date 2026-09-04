@@ -5,10 +5,10 @@
 <!-- ========================================================================= -->
 
 ```
-   _  __ ___    ______ _   __ __  ___ ___     ____ 
-  / |/ //   |  / ____// | / //  |/  //   |   / __ \
- /    // /| | / __/  /  |/ // /|_/ // /| |  / / / /
-/_/|_//_/ |_|/_____//_/|__//_/  /_//_/ |_| /_/ /_/ 
+   _  __ ___    ______ _   __ __  ___ ___    ____
+  / |/ //   |  / ____// | / //  |/  //   |  / __ \
+ /    // /| | / __/  /  |/ // /|_/ // /| | / /_/ /
+/_/|_//_/ |_|/_____//_/|__//_/  /_//_/ |_|/_____/
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=AHMAD%20ZULKARNAEN&fontSize=38&fontColor=38bdf8&fontAlignY=42&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20%26%20MOBILE%20ARCHITECT%20%E2%9A%A1&descFontSize=14&descAlignY=64&descAlign=50&stroke=38bdf8&strokeWidth=1" width="100%" alt="Header" />
@@ -212,12 +212,12 @@ interface SoftwareEngineer {
 
 <div align="center">
 
-| Initiative / Platform | Architecture Focus | Tech Stack | Status |
-| :--- | :--- | :--- | :---: |
-| 🚀 **Antipaya Core Architecture** | Modular Enterprise Foundation & Microservices | `Laravel` `React` `TypeScript` | 🟢 Active |
-| 📱 **Cross-Platform Mobile Suite** | Offline-First, High Performance Mobile UX | `Flutter` `Dart` `Firebase` | 🟢 Active |
-| 🌐 **Modern Web Ecosystem** | High-Traffic Scalable SaaS Platforms | `Next.js` `TailwindCSS` `PostgreSQL` | 🟢 Active |
-| 🔧 **DevOps & Infrastructure Automation** | CI/CD, Containerization & Server Workflows | `Docker` `GitHub Actions` `Linux` | 🟢 Active |
+| Initiative / Platform                     | Architecture Focus                            | Tech Stack                           |  Status   |
+| :---------------------------------------- | :-------------------------------------------- | :----------------------------------- | :-------: |
+| 🚀 **Antipaya Core Architecture**         | Modular Enterprise Foundation & Microservices | `Laravel` `React` `TypeScript`       | 🟢 Active |
+| 📱 **Cross-Platform Mobile Suite**        | Offline-First, High Performance Mobile UX     | `Flutter` `Dart` `Firebase`          | 🟢 Active |
+| 🌐 **Modern Web Ecosystem**               | High-Traffic Scalable SaaS Platforms          | `Next.js` `TailwindCSS` `PostgreSQL` | 🟢 Active |
+| 🔧 **DevOps & Infrastructure Automation** | CI/CD, Containerization & Server Workflows    | `Docker` `GitHub Actions` `Linux`    | 🟢 Active |
 
 </div>
 
@@ -227,14 +227,14 @@ interface SoftwareEngineer {
   <summary><b>🏢 Explore Services at Antipaya Software House (Click to expand)</b></summary>
   <br/>
 
-| Service | Scope & Deliverables |
-| :--- | :--- |
-| 🎯 **Custom Development** | Bespoke full-stack software tailored to demanding business logic |
-| 📱 **Mobile Applications** | Production-ready native (Android/Kotlin) & cross-platform (Flutter/React Native) apps |
-| 🌐 **Web Applications** | Responsive, SEO-optimized, and resilient modern web systems |
-| ☁️ **Cloud Solutions** | Microservices, RESTful & Event-Driven APIs, and database architecture |
-| 🔧 **Technical Consulting** | Tech-stack evaluation, code audit, and system design optimization |
-| 🎓 **Training & Workshops** | Hands-on engineering workshops and modern agile coaching |
+| Service                     | Scope & Deliverables                                                                  |
+| :-------------------------- | :------------------------------------------------------------------------------------ |
+| 🎯 **Custom Development**   | Bespoke full-stack software tailored to demanding business logic                      |
+| 📱 **Mobile Applications**  | Production-ready native (Android/Kotlin) & cross-platform (Flutter/React Native) apps |
+| 🌐 **Web Applications**     | Responsive, SEO-optimized, and resilient modern web systems                           |
+| ☁️ **Cloud Solutions**      | Microservices, RESTful & Event-Driven APIs, and database architecture                 |
+| 🔧 **Technical Consulting** | Tech-stack evaluation, code audit, and system design optimization                     |
+| 🎓 **Training & Workshops** | Hands-on engineering workshops and modern agile coaching                              |
 
 </details>
 
