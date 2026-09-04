@@ -1,17 +1,22 @@
 <div align="center">
 
 <!-- ========================================================================= -->
-<!-- 🚀 DYNAMIC HERO BANNER -->
+<!-- 🚀 DYNAMIC HERO BANNER & TERMINAL MOTD -->
 <!-- ========================================================================= -->
 
+```bash
+╭─ naenmad@antipaya-station ‹main› in ~
+╰─❯ banner --font slant "NAENMAD"
 ```
+
+```text
    _  __ ___    ______ _   __ __  ___ ___    ____
   / |/ //   |  / ____// | / //  |/  //   |  / __ \
  /    // /| | / __/  /  |/ // /|_/ // /| | / /_/ /
 /_/|_//_/ |_|/_____//_/|__//_/  /_//_/ |_|/_____/
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=AHMAD%20ZULKARNAEN&fontSize=38&fontColor=38bdf8&fontAlignY=42&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20%26%20MOBILE%20ARCHITECT%20%E2%9A%A1&descFontSize=14&descAlignY=64&descAlign=50&stroke=38bdf8&strokeWidth=1" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=AHMAD%20ZULKARNAEN&fontSize=38&fontColor=38bdf8&fontAlignY=42&desc=%E2%9A%A1%20SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20%26%20MOBILE%20ARCHITECT%20%E2%9A%A1&descFontSize=14&descAlignY=64&descAlign=50&stroke=38bdf8&strokeWidth=1" width="100%" alt="Header" />
 
 <br/>
 
@@ -33,9 +38,11 @@
   <a href="https://medium.com/@madnaen" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  <!-- SPOTIFY BADGE (Commented out for easy rollback - uncomment below to restore)
   <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
+  -->
   <a href="https://github.com/naenmad?tab=followers" target="_blank">
     <img src="https://img.shields.io/github/followers/naenmad?style=for-the-badge&logo=github&color=21262d&labelColor=0d1117" alt="Followers" />
   </a>
@@ -47,23 +54,36 @@
 ---
 
 <!-- ========================================================================= -->
-<!-- 💻 SYSTEM OVERVIEW / NEOFETCH TERMINAL UI -->
+<!-- 💻 SYSTEM OVERVIEW / FASTFETCH TERMINAL UI -->
 <!-- ========================================================================= -->
 
-### 🖥️ `system_info.sh`
+### 🖥️ `system_info.sh` — Hardware & Kernel Telemetry
 
 ```bash
-naenmad@workspace-id:~$ neofetch --engineer "Ahmad Zulkarnaen"
+╭─ naenmad@antipaya-station ‹main*› in ~
+╰─❯ fastfetch --profile engineer --format full
 ```
 
 ```yaml
-  ███╗   ██╗ █████╗ ███████╗███╗   ██╗  OS        : Arch Linux x86_64 / macOS
-  ████╗  ██║██╔══██╗██╔════╝████╗  ██║  Host      : Antipaya Engineering HQ (Bogor, ID 🇮🇩)
-  ██╔██╗ ██║███████║█████╗  ██╔██╗ ██║  Kernel    : Software Engineer v2.0
-  ██║╚██╗██║██╔══██║██╔══╝  ██║╚██╗██║  Role      : Full-Stack & Mobile Specialist
-  ██║ ╚████║██║  ██║███████╗██║ ╚████║  Focus     : Web, Mobile, Cloud Architecture, Scalability
-  ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝  Stack     : React, Flutter, Laravel, TypeScript
-                                        Uptime    : Coffee-driven ☕ → Continuous Delivery 🚀
+# ╭────────────────────────────────────────────────────────────────────────────╮
+# │  naenmad@antipaya-station: ~ (zsh)                                ● ● ●   │
+# ╰────────────────────────────────────────────────────────────────────────────╯
+
+  ███╗   ██╗ █████╗ ███████╗███╗   ██╗   Identity  : Ahmad Zulkarnaen (@naenmad)
+  ████╗  ██║██╔══██╗██╔════╝████╗  ██║   Role      : Full-Stack & Mobile Architect
+  ██╔██╗ ██║███████║█████╗  ██╔██╗ ██║   Firm      : Antipaya Software House 🏢
+  ██║╚██╗██║██╔══██║██╔══╝  ██║╚██╗██║   Location  : Bogor, Indonesia 🇮🇩
+  ██║ ╚████║██║  ██║███████╗██║ ╚████║   OS        : macOS Sonoma • Arch Linux x86_64
+  ╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝   Kernel    : Darwin 23.6.0 / Linux 6.10-zen
+                                         Shell     : zsh 5.9 + Starship Prompt 🚀
+                                         Terminal  : Ghostty / Alacritty (GPU-Accel)
+                                         Editor    : Neovim 0.10 • VS Code (Tokyo Night)
+                                         Stack     : Flutter • React / Next.js • Laravel • TypeScript
+                                         DevOps    : Docker • CI/CD • PostgreSQL • Redis
+                                         Uptime    : 99.99% • Coffee Pipeline Active ☕
+                                         Status    : Available for high-impact architecture ✨
+
+# Palette : ■ ■ ■ ■ ■ ■ ■ ■
 ```
 
 ---
@@ -95,13 +115,15 @@ naenmad@workspace-id:~$ neofetch --engineer "Ahmad Zulkarnaen"
       <h4>⚡ Live Telemetry</h4>
 
 ```typescript
-interface SoftwareEngineer {
-  identity: "Ahmad Zulkarnaen (@naenmad)";
-  venture: "Antipaya Software House";
-  corePillars: ["Web", "Mobile", "Cloud", "Clean Code"];
-  philosophy: "Turn complex engineering into seamless UX";
-  status: "Available for ambitious collaborations ✨";
-}
+// GET /api/v1/engineer/naenmad.ts
+export const ArchitectProfile: Engineer = {
+  identity: "Ahmad Zulkarnaen (@naenmad)",
+  role: "Full-Stack & Mobile Architect",
+  venture: "Antipaya Software House",
+  corePillars: ["Clean Architecture", "Scalability", "High Performance"],
+  philosophy: "Turn complex engineering into seamless UX",
+  status: "Available for ambitious collaborations ✨"
+};
 ```
 
    </td>
@@ -115,6 +137,8 @@ interface SoftwareEngineer {
 <!-- ========================================================================= -->
 
 ### 🛠️ Technical Arsenal & Ecosystem
+
+<p align="center"><code>naenmad@antipaya:~$ stack --list --tier production</code></p>
 
 <div align="center">
 
@@ -163,6 +187,8 @@ interface SoftwareEngineer {
 
 ### 📊 Performance & Repository Analytics
 
+<p align="center"><code>naenmad@antipaya:~$ curl -s https://api.github.com/users/naenmad/telemetry</code></p>
+
 <div align="center">
 
 <table border="0">
@@ -192,7 +218,9 @@ interface SoftwareEngineer {
 <!-- 🐍 CONTRIBUTION SNAKE ANIMATION -->
 <!-- ========================================================================= -->
 
-### 🌌 Activity Constellation
+### 🌌 Activity Constellation & Commit Stream
+
+<p align="center"><code>naenmad@antipaya:~$ git log --graph --snake-animation</code></p>
 
 <div align="center">
   <picture>
@@ -208,7 +236,9 @@ interface SoftwareEngineer {
 <!-- 💼 FEATURED WORKS & SOFTWARE HOUSE PORTFOLIO (INTERACTIVE CARDS) -->
 <!-- ========================================================================= -->
 
-### 💼 Featured Works & Services
+### 💼 Featured Works & Production Deployments
+
+<p align="center"><code>naenmad@antipaya:~$ docker ps --filter "status=running" --format "table {{.Names}}\t{{.Focus}}\t{{.Status}}"</code></p>
 
 <div align="center">
 
@@ -241,29 +271,28 @@ interface SoftwareEngineer {
 ---
 
 <!-- ========================================================================= -->
-<!-- 🎧 SPOTIFY PULSE & DEV INSPIRATION -->
+<!-- 💡 DEVELOPER PHILOSOPHY & THOUGHT STREAM -->
 <!-- ========================================================================= -->
 
-### 🎧 Coding Soundwaves & Inspiration
+### 💡 Thought Stream & Engineering Mindset
+
+<p align="center"><code>naenmad@antipaya:~$ fortune | cowsay -f dev</code></p>
 
 <div align="center">
-
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <p><b>🎵 Listening Pulse</b></p>
-      <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mcp6bpg7ghj542srfj4n7jfw5a&count=4&unique=true" alt="Spotify Recently Played" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <p><b>💡 Thought Stream</b></p>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&text_color=94A3B8&title_color=38BDF8" alt="Dev Quote" />
-    </td>
-  </tr>
-</table>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&text_color=94A3B8&title_color=38BDF8&border_radius=12" alt="Dev Quote" />
 </div>
+
+<!-- ========================================================================= -->
+<!-- 🎧 SPOTIFY PULSE (COMMENTED OUT FOR EASY ROLLBACK) -->
+<!-- ========================================================================= -->
+<!-- ROLLBACK INSTRUCTION: To re-enable Spotify, uncomment the block below:
+<div align="center">
+  <p><b>🎵 Listening Pulse</b></p>
+  <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mcp6bpg7ghj542srfj4n7jfw5a&count=4&unique=true" alt="Spotify Recently Played" />
+  </a>
+</div>
+-->
 
 ---
 
@@ -289,14 +318,20 @@ interface SoftwareEngineer {
   <a href="https://medium.com/@madnaen" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+  <!-- SPOTIFY LINK (Commented out for easy rollback - uncomment below to restore)
   <a href="https://open.spotify.com/user/31mcp6bpg7ghj542srfj4n7jfw5a" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-Playlists-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
+  -->
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d1117,50:161b22,100:0d1117&height=90&section=footer&stroke=38bdf8&strokeWidth=1" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:161b22,100:0d1117&height=90&section=footer&stroke=38bdf8&strokeWidth=1" width="100%" alt="Footer" />
+
+<p align="center">
+  <code>naenmad@antipaya-station:~$ exit 0 # Session closed with status SUCCESS</code>
+</p>
 
 <p align="center">
   <i>Engineered with 💙 & precision by <a href="https://github.com/naenmad"><b>naenmad</b></a></i>
