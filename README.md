@@ -110,8 +110,3 @@ cat << 'EOF' > /Users/mac/Developer/personal/naenmad/README.md
 </tr>
 </table>
 EOF
-
-cd /Users/mac/Developer/personal/naenmad
-git add README.md
-git commit -m "docs: streamline profile readme and remove generator watermark"
-git push origin main
